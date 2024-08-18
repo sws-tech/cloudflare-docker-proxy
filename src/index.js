@@ -17,7 +17,7 @@ const routes = {
   "ecr.swstech-docker.site": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.swstech-docker.site": dockerHub,
 };
 
 function routeByHosts(host) {
